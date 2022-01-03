@@ -1,0 +1,20 @@
+[
+  {
+    "name": "les-restos-du-coeur",
+    "slogan": "On compte sur vous",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas diam orci, aliquet vel vehicula sed, rutrum sit amet nibh. Integer finibus lectus non ultrices auctor.",
+    "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Restos_du_coeur_Logo.svg/1200px-Restos_du_coeur_Logo.svg.png"
+  },
+  {
+    "name": "unicef",
+    "slogan": "unicef slogan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas diam orci, aliquet vel vehicula sed, rutrum sit amet nibh. Integer finibus lectus non ultrices auctor.",
+    "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Restos_du_coeur_Logo.svg/1200px-Restos_du_coeur_Logo.svg.png"
+  },
+  {
+    "name": "konexio",
+    "slogan": "konexio slogan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas diam orci, aliquet vel vehicula sed, rutrum sit amet nibh. Integer finibus lectus non ultrices auctor.",
+    "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Restos_du_coeur_Logo.svg/1200px-Restos_du_coeur_Logo.svg.png"
+  }
+]
